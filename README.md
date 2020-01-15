@@ -1,2 +1,3 @@
 # hello-world
-bellow the ozone repository
+Repository 101
+Kaid took his first steps today
