@@ -1,3 +1,3 @@
 # hello-world
-Repository 101
-Kaid took his first steps today
+Repository 101 
+Caid took his first steps today
